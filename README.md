@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [PowerPoint Slide](https://github.com/tanisha134/PowerPoint-Project)
 
-- 💬 Ask me about **Excel , Python, Powerpoin**
+- 💬 Ask me about **Excel , Python, Powerpoint**
 
 - 📫 How to reach me **jannatulnurtanisha63@gmail.com**
 
